@@ -1,0 +1,5 @@
+{
+  "name": "POKECOST",
+  "description": "A modern, clean, and user-friendly web application for tracking Pokémon card prices. The site uses data from the Pokémon TCG API to fetch cards and show their current market prices, allowing users to manage their personal collection.",
+  "requestFramePermissions": []
+}

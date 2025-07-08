@@ -1,0 +1,28 @@
+{
+  "short_name": "POKECOST",
+  "name": "POKECOST - Pokémon Card Price Tracker",
+  "description": "A modern, clean, and user-friendly web application for tracking Pokémon card prices.",
+  "icons": [
+    {
+      "src": "https://icon.horse/icon/pokemon.com?size=192",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://icon.horse/icon/pokemon.com?size=512",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+        "src": "https://icon.horse/icon/pokemon.com?size=512",
+        "type": "image/png",
+        "sizes": "512x512",
+        "purpose": "maskable any"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#2a75bb",
+  "background_color": "#222222"
+}
